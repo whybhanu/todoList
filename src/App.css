@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    /* background: #092635;
+    color: white; */
+}
+/* .uldesign{
+    width: 50%;
+} */
+
+.N.bg-skyblue {
+    background-color: skyblue;
+    color: white;
+  }
+  
+  .bg-black {
+    background-color: black;
+    color: white;
+  }
